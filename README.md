@@ -1,2 +1,2 @@
-# IE103 - Quản lý Thông tin
-## Đề tài: Quản lý thư viện
+# IE103 - Information Management
+## Topic: Library management
