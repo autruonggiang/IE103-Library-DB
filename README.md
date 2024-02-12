@@ -1,1 +1,1 @@
-# IE103-Information-Management
+# IE103 - Quản lý Thông tin
