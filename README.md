@@ -1,6 +1,9 @@
 # IE103 - Information Management
 
 ![Library ERD](Images/Library_ERD.drawio.png)
+<div align="center">
+Library's ERD
+</div>
 
 # Table of contents
 ## Chapter 1: Introduction
