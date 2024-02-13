@@ -4,7 +4,7 @@
 ### 1. Problem introduction
 ### 2. Objectives
 ### 3. User target
-### 4. Real-world process
+### 4. Real-world procedure
 
 ## Chapter 2: Problem Analysis
 ### 1. Entities to be managed
@@ -22,6 +22,6 @@
 
 ## Chapter 5: Conclusion and Future Development
 ### 1. Conclusion
-### 2. Future Development
+### 2. Future development
 
 ## REFERENCES
