@@ -1,5 +1,8 @@
 # IE103 - Information Management
 
+![Library ERD](Images/Library_ERD.drawio.png)
+
+# Table of contents
 ## Chapter 1: Introduction
 ### 1. Problem introduction
 ### 2. Objectives
