@@ -31,3 +31,11 @@ Library's ERD
 #### 2. Future development
 
 ### REFERENCES
+
+## Languages and Tools
+<table>
+<tr>
+  <td align="center"><<img src="Images/databases.png" width="75px;" height="75px;" alt="Databases"/><br /><b>Databases</b></td>
+  <td align="center"><<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="Images/sql.png" width="75px;" height="75px;" alt="sql"/><br /><b>SQL</b></a></td>
+</tr>
+</table>
