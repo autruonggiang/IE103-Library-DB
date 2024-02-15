@@ -6,7 +6,7 @@ Library's ERD
 </div>
 
 ```
-Table of contents
+___Table of contents___
 # Chapter 1: Introduction
 ## 1. Problem introduction
 ## 2. Objectives
