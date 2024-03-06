@@ -1,4 +1,4 @@
-# IE103 - Information Management
+# IE103 - Information Management's Project
 
 ![Library ERD](Images/Library_ERD.drawio.png)
 <div align="center">
