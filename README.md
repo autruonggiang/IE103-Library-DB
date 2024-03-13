@@ -44,3 +44,16 @@ ___Table of contents___
 
 ## REFERENCES
 - [SQL 101](https://github.com/s-shemmee/SQL-101)
+
+## Study and Reference Materials
+
+### Textbook
+1. Kenneth C. Laudon, Carol Guercio Traver (2011). "Management Information Systems," 12th Edition. Prentice Hall.
+
+### Reference Documents
+1. Ramez Elmasri, Shamkant B. Navathe (2010). "Fundamentals of Database Systems," 6th Edition. Addison-Wesley.
+
+## Software or Tools for Practice
+
+1. Microsoft (2010). Visual Studio 2010.
+2. Microsoft (2008). Microsoft SQL Server Management Studio.
